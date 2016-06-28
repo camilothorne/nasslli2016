@@ -1,7 +1,6 @@
 # NASSLLI 2016 Tutorial
 
 Requirements:
-------------
 * Python 2.7+, with libraries:
     - NumPy         (numerical computation)
     - Matplotlib    (plotting)
