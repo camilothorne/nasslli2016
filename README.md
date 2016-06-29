@@ -11,7 +11,6 @@ plugin). I will explain how to install and set up most of the required tools/res
 during the tutorial, albeit for Linux environments.
 
 Requirements:
-
 * R 2.0+
 * RStudio 0.99+
 * Python 2.7+, with libraries:
