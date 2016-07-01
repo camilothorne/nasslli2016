@@ -1,4 +1,4 @@
-# NASSLLI 2016 Tutorial
+## NASSLLI 2016 Tutorial
 
 This site contains part of the materials we will be using during the
 tutorial on empirical methods for corpus analysis with open source tools
