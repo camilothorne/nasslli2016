@@ -2,7 +2,14 @@
 
 This site contains part of the materials we will be using during the
 tutorial on empirical methods for corpus analysis with open source tools
-at NASSLLI 2016.
+at NASSLLI 2016. The tutorial will be interactive. Basic analytical concepts
+and techniques will be exemplified on the datasets listed below.
+It presupposes that you come with a laptop and that you install a Git versioning 
+client.
+
+This site contain already a case study in corpus analysis that we will discuss
+together. At the end of the tutorial, the notes, slides and some extra sample code will 
+be uploaded to this repository.
 
 The course will rely on two pillars **(1)** the R statistical analysis enviroment
 and **(2)** the Python scripting language. A companion tool for R is the RStudio
@@ -10,7 +17,7 @@ IDE. For Python, you can use the IDE of your choice (e.g., Eclipse with the PyDe
 plugin). I will explain how to install and set up most of the required tools/resources
 during the tutorial, albeit for Linux environments.
 
-Requirements:
+Software to be used:
 * [R 2.0+](https://www.r-project.org/), with libraries:
     - languageR (English datasets)
     - infotheo (Shannon entropy)
