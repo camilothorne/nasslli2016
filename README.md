@@ -36,8 +36,8 @@ during the tutorial, albeit for Linux environments.
 
 ##### B. References:
 
-* Peter Dalgard. [*Introductory Statistics with R*](http://www.springer.com/us/book/9780387790534). Springer, 2009.
+* Peter Dalgaard. [*Introductory Statistics with R*](http://www.springer.com/us/book/9780387790534). Springer, 2009.
 * Stefan T. Gries. ["Useful statistics for corpus linguistics"](http://www.linguistics.ucsb.edu/faculty/stgries/research/2010_STG_UsefulStats4CorpLing_MosaicCorpLing.pdf). 
 In: *A Mosaic of Corpus Linguistics: Selected Approaches*, p. 269-291. Peter Lang, 2010.
-* Chis Manning and Hinrich Schutze. [*Foundations of Statistical Natural Language Processing*](http://nlp.stanford.edu/fsnlp/promo/). The MIT Press, 1999.
+* Chris Manning and Hinrich Schutze. [*Foundations of Statistical Natural Language Processing*](http://nlp.stanford.edu/fsnlp/promo/). The MIT Press, 1999.
 
