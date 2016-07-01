@@ -7,9 +7,11 @@ and techniques will be exemplified on the datasets listed below.
 It presupposes that you come with a laptop and that you install a Git versioning 
 client.
 
-This site contain already a case study in corpus analysis that we will discuss
+```
+This site contains already a case study in corpus analysis that we will discuss
 together. At the end of the tutorial, the notes, slides and some extra sample code will 
 be uploaded to this repository.
+```
 
 The course will rely on two pillars **(1)** the R statistical analysis enviroment
 and **(2)** the Python scripting language. A companion tool for R is the RStudio
