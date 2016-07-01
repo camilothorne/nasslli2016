@@ -17,7 +17,7 @@ IDE. For Python, you can use the IDE of your choice (e.g., Eclipse with the PyDe
 plugin). I will explain how to install and set up most of the required tools/resources
 during the tutorial, albeit for Linux environments.
 
-###### A. Software:
+##### A. Software:
 
 * [R 2.0+](https://www.r-project.org/), with libraries:
     - languageR (English datasets)
