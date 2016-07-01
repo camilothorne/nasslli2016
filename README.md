@@ -1,8 +1,8 @@
 ## NASSLLI 2016 Tutorial
 
 This site contains part of the materials we will be using during the
-tutorial on empirical methods for corpus analysis with open source tools
-at NASSLLI 2016. The tutorial will be interactive. Basic analytical concepts
+tutorial on [*Corpus Statistics with Open Source Tools*](http://nasslli2016.rutgers.edu/course_Thorne.html)
+at [NASSLLI 2016](http://nasslli2016.rutgers.edu/). The tutorial will be interactive. Basic analytical concepts
 and techniques will be exemplified on the datasets listed below.
 It presupposes that you come with a laptop and that you install a Git versioning 
 client.
