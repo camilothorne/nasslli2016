@@ -29,5 +29,9 @@ Software to be used:
     - [SciPy 1.0+](https://www.scipy.org/)           (basic statistics)
     - [NLTK 2.0+](https://www.nltk.org/)             (NLP)
     - [Gensim](https://radimrehurek.com/gensim/)     (word embeddings)
-* [Word2Vec models](https://code.google.com/archive/p/word2vec/)       
+* [Word2Vec models](https://code.google.com/archive/p/word2vec/)
+
+References:
+* Peter Dalgard. [Introductory Statistics with R](http://www.springer.com/us/book/9780387790534). Springer, 2009.
+* Stefan T. Gries. ["Useful statistics for corpus linguistics](http://www.linguistics.ucsb.edu/faculty/stgries/research/2010_STG_UsefulStats4CorpLing_MosaicCorpLing.pdf). In: A Mosaic of Corpus Linguistics: Selected Approcahes, p. 269--291. Peter Lang, 2010.
 
