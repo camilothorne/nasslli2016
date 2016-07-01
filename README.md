@@ -8,7 +8,7 @@ It presupposes that you come with a laptop and that you install a Git versioning
 client.
 
 ```
-**REMARK:** This site contains already a case study in corpus analysis that we will discuss 
+REMARK: This site contains already a case study in corpus analysis that we will discuss 
 together. At the end of the tutorial, the notes, slides and some extra sample code will 
 be uploaded to this repository.
 ```
