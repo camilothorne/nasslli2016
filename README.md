@@ -18,6 +18,7 @@ plugin). I will explain how to install and set up most of the required tools/res
 during the tutorial, albeit for Linux environments.
 
 ###### A. Software:
+
 * [R 2.0+](https://www.r-project.org/), with libraries:
     - languageR (English datasets)
     - infotheo (Shannon entropy)
@@ -31,7 +32,8 @@ during the tutorial, albeit for Linux environments.
     - [Gensim](https://radimrehurek.com/gensim/)     (word embeddings)
 * [Word2Vec models](https://code.google.com/archive/p/word2vec/)
 
-**B. References:**
+##### B. References:
+
 * Peter Dalgard. [Introductory Statistics with R](http://www.springer.com/us/book/9780387790534). Springer, 2009.
 * Stefan T. Gries. ["Useful statistics for corpus linguistics"](http://www.linguistics.ucsb.edu/faculty/stgries/research/2010_STG_UsefulStats4CorpLing_MosaicCorpLing.pdf). 
 In: A Mosaic of Corpus Linguistics: Selected Approcahes, p. 269--291. Peter Lang, 2010.
