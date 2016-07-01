@@ -13,7 +13,7 @@ together. At the end of the tutorial, the notes, slides and some extra sample co
 be uploaded to this repository.
 ```
 
-The course will rely on two pillars: **(1) the **R** statistical analysis enviroment
+The course will rely on two pillars: **(1)** the **R** statistical analysis enviroment
 and **(2)** the **Python** scripting language. A companion tool for R is the RStudio
 IDE. For Python, you can use the IDE of your choice (e.g., Eclipse with the PyDev
 plugin). I will explain how to install and set up most of the required tools/resources
