@@ -11,12 +11,16 @@ plugin). I will explain how to install and set up most of the required tools/res
 during the tutorial, albeit for Linux environments.
 
 Requirements:
-* R 2.0+
-* RStudio 0.99+
+* R 2.0+, with libraries:
+    - languageR (English datasets)
+    - infotheo (Shannon entropy)
+    - xlsx (to write/read .xls and .csv files)
+* RStudio 0.99+ (IDE for R)
 * Python 2.7+, with libraries:
     - NumPy 1.0+            (numerical computation)
     - Matplotlib 1.0+       (plotting)
     - SciPy 1.0+            (basic statistics)
     - NLTK 2.0+             (NLP)
-
+    - Gensim                (word embeddings)
+* Word2Vec models 
 
