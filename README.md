@@ -17,7 +17,7 @@ IDE. For Python, you can use the IDE of your choice (e.g., Eclipse with the PyDe
 plugin). I will explain how to install and set up most of the required tools/resources
 during the tutorial, albeit for Linux environments.
 
-Software to be used:
+A. Software to be used:
 * [R 2.0+](https://www.r-project.org/), with libraries:
     - languageR (English datasets)
     - infotheo (Shannon entropy)
@@ -31,8 +31,9 @@ Software to be used:
     - [Gensim](https://radimrehurek.com/gensim/)     (word embeddings)
 * [Word2Vec models](https://code.google.com/archive/p/word2vec/)
 
-References:
+B. References:
 * Peter Dalgard. [Introductory Statistics with R](http://www.springer.com/us/book/9780387790534). Springer, 2009.
 * Stefan T. Gries. ["Useful statistics for corpus linguistics"](http://www.linguistics.ucsb.edu/faculty/stgries/research/2010_STG_UsefulStats4CorpLing_MosaicCorpLing.pdf). 
 In: A Mosaic of Corpus Linguistics: Selected Approcahes, p. 269--291. Peter Lang, 2010.
+* Chis Manning and Hinrich Schutze. [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/promo/). The MIT Press, 1999.
 
