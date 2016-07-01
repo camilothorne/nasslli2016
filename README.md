@@ -33,5 +33,6 @@ Software to be used:
 
 References:
 * Peter Dalgard. [Introductory Statistics with R](http://www.springer.com/us/book/9780387790534). Springer, 2009.
-* Stefan T. Gries. ["Useful statistics for corpus linguistics](http://www.linguistics.ucsb.edu/faculty/stgries/research/2010_STG_UsefulStats4CorpLing_MosaicCorpLing.pdf). In: A Mosaic of Corpus Linguistics: Selected Approcahes, p. 269--291. Peter Lang, 2010.
+* Stefan T. Gries. ["Useful statistics for corpus linguistics"](http://www.linguistics.ucsb.edu/faculty/stgries/research/2010_STG_UsefulStats4CorpLing_MosaicCorpLing.pdf). 
+In: A Mosaic of Corpus Linguistics: Selected Approcahes, p. 269--291. Peter Lang, 2010.
 
