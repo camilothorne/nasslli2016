@@ -18,6 +18,7 @@ plugin). I will explain how to install and set up most of the required tools/res
 during the tutorial, albeit for Linux environments.
 
 **A. Software:**
+----------------
 * [R 2.0+](https://www.r-project.org/), with libraries:
     - languageR (English datasets)
     - infotheo (Shannon entropy)
