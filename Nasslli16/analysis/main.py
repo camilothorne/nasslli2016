@@ -9,7 +9,7 @@ Created on May 18, 2016
 
 # custom libraries
 import sys
-sys.path.append(u'../corpuspkg/')
+sys.path.append(u'../stats/')
 
 
 #================#

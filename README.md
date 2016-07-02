@@ -41,3 +41,4 @@ during the tutorial, albeit for Linux environments.
 In: *A Mosaic of Corpus Linguistics: Selected Approaches*, p. 269-291. Peter Lang, 2010.
 * Chris Manning and Hinrich Schutze. [*Foundations of Statistical Natural Language Processing*](http://nlp.stanford.edu/fsnlp/promo/). The MIT Press, 1999.
 * Steven Bird, Ewan Klein and Edward Loper. [*Natural Language Processing with Python*](http://www.nltk.org/book/). O'Reilly, 2009.
+* R. H. Baayen. [*Analyzing Linguistic Data. A Practical Introduction to Statistics.*](http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf). Cambrige University Press, 2008.

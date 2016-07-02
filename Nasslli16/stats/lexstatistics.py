@@ -39,7 +39,7 @@ class MyStats:
         k = len(fileids)
         figA = pylab.figure(1)
         figB = pylab.figure(2)
-        li = ['Brown corpus']
+        li = ['Corpus']
         for id in fileids:
             if k > 1:
                 i = fileids.index(id)+1
@@ -47,15 +47,15 @@ class MyStats:
                 fre = FreqDist(word.lower() for word in words if word.isalpha())
                 self.bar_count(fre,n,figA,2*k,2*i,id,li)
                 self.bar_freq(fre,n,figB,2*k,2*i,id,li)
-                figA.savefig('/home/camilo/Desktop/complex-freq.pdf')
-                figB.savefig('/home/camilo/Desktop/complex-relfreq.pdf')
+                figA.savefig('..data/complex-freq.pdf')
+                figB.savefig('..data/complex-relfreq.pdf')
             else:
                 words = wordlists.words(id)
                 fre = FreqDist(word.lower() for word in words if word.isalpha())
                 self.bar_count(fre,n,figA,k,1,id,li)
                 self.bar_freq(fre,n,figB,k,1,id,li)
-                figA.savefig('/home/camilo/Desktop/simple-freq.pdf')
-                figB.savefig('/home/camilo/Desktop/simple-relfreq.pdf')             
+                figA.savefig('../data/simple-freq.pdf')
+                figB.savefig('../data/simple-relfreq.pdf')             
         pylab.show()
 
     
@@ -194,7 +194,7 @@ class MyStats:
                 t = "(" + word.lower() + "," + `freq` + "/" + `leng` + ")"
                 res.append(f)
                 res.append(t)
-        out = open("/home/camilo/"+filename,"w")
+        out = open("../data/"+filename,"w")
         try:
             for t in res[:n]:
                 out.write(t + "\n")

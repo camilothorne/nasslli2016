@@ -15,9 +15,7 @@ from numpy import *
 from subprocess import call
 from operator import itemgetter, attrgetter
 import scipy
-from statsplot import MyPlot
 from classes import MyClass, MyPatts, MyClassStats
-from statstests import STest
 
 
 #################################################################### 
@@ -116,7 +114,7 @@ class PattStats:
         self.path = path
         self.format = format
         self.occStats(path,format)
-        self.statTest(self.classstats)
+        
     
     # collecting statistics
     def occStats(self,path,format):
@@ -125,8 +123,6 @@ class PattStats:
         k = len(fileids)
         # computing relative frequencies
         self.fileStats(path,fileids)
-        # plotting
-        MyPlot(self.stats,self.classstats,"patterns","one") 
             
        # creating the classes
     def fileStats(self,path,fileids):
@@ -289,16 +285,5 @@ class PattStats:
                 print `id.freq` + ": rel. freq "+ id.fileid
                 print `id.count` + ": freq "+ id.fileid              
             print "###################################################"
-
-        
-    # statistical tests
-    def statTest(self,classstats):
-        samplef = []
-        for cla in classstats:
-            samplef.append(cla.fre)
-        sampler = []
-        for cla in classstats:
-            sampler.append(cla.avg)
-        STest(sampler,samplef)
         
            
