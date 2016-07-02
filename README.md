@@ -40,4 +40,4 @@ during the tutorial, albeit for Linux environments.
 * Stefan T. Gries. ["Useful statistics for corpus linguistics"](http://www.linguistics.ucsb.edu/faculty/stgries/research/2010_STG_UsefulStats4CorpLing_MosaicCorpLing.pdf). 
 In: *A Mosaic of Corpus Linguistics: Selected Approaches*, p. 269-291. Peter Lang, 2010.
 * Chris Manning and Hinrich Schutze. [*Foundations of Statistical Natural Language Processing*](http://nlp.stanford.edu/fsnlp/promo/). The MIT Press, 1999.
-
+* Steven Bird, Ewan Klein and Edward Loper. [*Natural Language Processing with Python*](http://www.nltk.org/book/). O'Reilly, 2009.
