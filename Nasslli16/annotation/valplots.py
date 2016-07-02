@@ -42,7 +42,7 @@ class ExpPlotD:
         mytime = ""
         fig1.savefig(os.environ['TEX']+uni+mytime+'.pdf')        
         # display plot if required
-        #pylab.show()
+        pylab.show()
         # save
         SaveStat(os.environ['TEX']+uni+mytime+'.tex',
                   os.environ['TEX']+uni+mytime+'.pdf',
@@ -240,7 +240,7 @@ class MMStats:
         avgOne      =   self.expOne[1]        
         avgTwo      =   self.expOne[2] 
         avgThree    =   self.expOne[3]
-        avgFour    =    self.expOne[4:quit]             
+        avgFour    =    self.expOne[4]             
                           
         # test
         print "###################################################"        
