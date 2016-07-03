@@ -1,6 +1,5 @@
 '''
 Created on May 23, 2016
-
 @author: camilo
 '''
 
@@ -18,11 +17,6 @@ Created on May 23, 2016
 from __future__ import division
 from operator import attrgetter
 #from math import ceil
-
-
-# my plotting + test classes
-from statsplot import MyPlot
-from statstests import STest
 
 
 # nltk
@@ -685,25 +679,5 @@ class ProporStatsPD:
             print "###################################################"
 
     #############################################################
-    #############################################################
-
-        
-    # statistical tests
-    def statTestB(self,classstats):
-        
-        s = STest()
-           
-        # simple samples:   
-             
-        # freqs (cross corpus, per corpus)     
-        sample1 = [] 
-        for cla in classstats:
-            sample1.append(sum([cl.count for cl in cla.classes]))             
-            
-        # simple stats methods
-        print "\n###################################################"        
-        print "Simple statistical tests: (patterns)"
-        ##########################################################
-        s.mySkew(sample1)                       # skewness     
-        s.myChiTest(sample1,s.uniFor(sample1))  # X^2 test   
+    ############################################################# 
 

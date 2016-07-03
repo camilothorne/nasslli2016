@@ -6,7 +6,6 @@ Created on Jan Feb 26, 2016
 
 from __future__ import division
 import json
-#from valplots import ExpPlotD
 from nltk.metrics import f_measure as f1_score
 from nltk.metrics import recall as recall_score, precision as precision_score
 from nltk.stem import PorterStemmer
@@ -42,8 +41,6 @@ class JSON(object):
         # save stats
         self.csv    = None
         self.g_csv  = None
-        self.tex    = None
-        self.g_tex  = None
  
         # Sparql
         self.spar = Spar()
@@ -287,13 +284,6 @@ class JSON(object):
         csv = csv + format(wnet_f1,'.2f')
         
         self.g_csv = csv.replace("'","")
-
-        # generate .tex table
-        tex  = "\\begin{tabular}{ccccc}\n"
-        tex  = tex + csv.replace("\n","\\\ \n")
-        tex  = tex.replace(","," & ")
-        tex  = tex + "\n\end{tabular}"
-        self.g_tex = tex  
           
             
     def computeGlobalStats(self):
@@ -360,11 +350,4 @@ class JSON(object):
         csv = csv + format(tagm_f1,'.2f') + ","
         csv = csv + format(wnet_f1,'.2f')
         
-        self.g_csv = csv.replace("'","")
-
-        # generate .tex table
-        tex  = "\\begin{tabular}{ccccc}\n"
-        tex  = tex + csv.replace("\n","\\\ \n")
-        tex  = tex.replace(","," & ")
-        tex  = tex + "\n\end{tabular}"
-        self.g_tex = tex      
+        self.g_csv = csv.replace("'","")  

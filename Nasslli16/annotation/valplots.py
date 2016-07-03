@@ -43,10 +43,7 @@ class ExpPlotD:
         fig1.savefig(os.environ['TEX']+uni+mytime+'.pdf')        
         # display plot if required
         pylab.show()
-        # save
-        SaveStat(os.environ['TEX']+uni+mytime+'.tex',
-                  os.environ['TEX']+uni+mytime+'.pdf',
-                  uni)           
+        # save         
         
                                      
     def plotCurve(self,figu,stats,c_num,name,pos):
@@ -68,11 +65,6 @@ class ExpPlotD:
         fme     = stats[3]
         acc     = stats[4]
         
-#         print "pre ", pre
-#         print "rec ", rec
-#         print "fme ", fme
-#         print "acc ", acc 
-        
         # line identifiers
         li = ("MetaMap","BabelFly","TagMe","WordNet")    
                               
@@ -93,8 +85,7 @@ class ExpPlotD:
             
         ax.axis([0,c_num,0,maxi])
             
-        # set name of y-axis
-#        ax.set_ylabel(name+" (avg.)",fontsize='12')        
+        # set name of y-axis      
         ax.set_ylabel(name+" ",fontsize='12')
         
         # plot feature names

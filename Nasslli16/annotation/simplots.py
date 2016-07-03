@@ -40,11 +40,7 @@ class ExpPlotC:
         mytime = ""
         fig1.savefig(os.environ['TEX']+uni+mytime+'.pdf')        
         # display plot if required
-        #pylab.show()
-        # save
-        SaveStat(os.environ['TEX']+uni+mytime+'.tex',
-                  os.environ['TEX']+uni+mytime+'.pdf',
-                  uni)          
+        pylab.show()         
         
                                     
     # 1. curve chart plotter

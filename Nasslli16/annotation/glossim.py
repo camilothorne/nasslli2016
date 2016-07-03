@@ -175,7 +175,6 @@ class JSON:
         
         # to save results
         self.csv    = None
-        self.tex    = None 
         self.model  = None
         
         # name of experiment
@@ -192,13 +191,9 @@ class JSON:
         '''
         
         text_file = open(os.environ['TEX']+expname+".csv", "w")
-        text_file.write(self.csv)
-        text_file2 = open(os.environ['TEX']+expname+".tex", "w")
-        text_file2.write(self.tex)        
-        print self.csv, "\n"
-        print self.tex, "\n"        
+        text_file.write(self.csv)       
+        print self.csv, "\n"       
         text_file.close()
-        text_file2.close()
         
         
     def process(self,data,bound):
@@ -352,13 +347,6 @@ class JSON:
         csv = csv + format(average(tot_wnet_edsyn),'.5f') + "\n"    
         
         self.csv = csv.replace("'","")
-
-        # generate .tex table
-        tex  = "\\begin{tabular}{ccccc}\n"
-        tex  = tex + self.csv.replace("\n","\\\ \n")
-        tex  = tex.replace(","," & ")
-        tex  = tex + "\n\end{tabular}"
-        self.tex = tex
         
         self.json2file(self.name)
         

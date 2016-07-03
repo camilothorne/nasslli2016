@@ -1,11 +1,13 @@
+#!/usr/bin/python
+
+
 '''
-Created on Jan 18, 2016
-@author: camilo
+Created on July 1, 2016
+@author: Camilo Thorne
 '''
 
 
 from glossim import JSON as SIM                                 #@UnusedImport
-from evaluation import JSON as LOOSE                            #@UnusedImport
 from strictevaluation import JSON as EVAL                       #@UnusedImport
 from strictevaluation import JSON as STRICT                     #@UnusedImport
 from simplots import MMStats as SIMStats, ExpPlotC as SPlot     #@UnusedImport
