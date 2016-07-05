@@ -4,7 +4,7 @@ This site contains part of the materials we will be using during the
 tutorial on [*Corpus Statistics with Open Source Tools*](http://nasslli2016.rutgers.edu/course_Thorne.html)
 at [NASSLLI 2016](http://nasslli2016.rutgers.edu/). The tutorial will be interactive. Basic analytical concepts
 and techniques will be exemplified on the datasets listed below.
-It presupposes that you come with a laptop and that you install a Git versioning 
+It presupposes that you **come with a laptop** and that you install a Git versioning 
 client.
 
 ```
@@ -16,8 +16,9 @@ be uploaded to this repository.
 The course will rely on two pillars: **(1)** the **R** statistical analysis enviroment
 and **(2)** the **Python** scripting language. A companion tool for R is the RStudio
 IDE. For Python, you can use the IDE of your choice (e.g., Eclipse with the PyDev
-plugin). I will explain how to install and set up most of the required tools/resources
-during the tutorial, albeit for Linux environments.
+plugin). I will help on how to install and set up most of the required tools/resources
+during the tutorial, albeit for Linux environments. Below, I list the main requirements
+and references. Other (minor) libraries and references will be mentioned as we go.
 
 ##### A. Software:
 
