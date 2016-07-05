@@ -18,7 +18,8 @@ and **(2)** the **Python** scripting language. A companion tool for R is the RSt
 IDE. For Python, you can use the IDE of your choice (e.g., Eclipse with the PyDev
 plugin). I will help on how to install and set up most of the required tools/resources
 during the tutorial, albeit for Linux environments. Below, I list the main requirements
-and references. Other (minor) libraries and references will be mentioned as we go.
+and references. Other (minor) libraries and references will be 
+mentioned as we go.
 
 ##### A. Software:
 
