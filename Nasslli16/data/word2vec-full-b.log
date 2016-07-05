@@ -1,0 +1,206 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sentence =  0 Strategies for preclinical evaluation of dendritic cell subsets for promotion of transplant tolerance in the nonhuman primate.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============
+corpus phrases	['nonhuman primate', 'transplant tolerance']
+corpus senses	['http://dbpedia.org/resource/Nonhuman_primates', 'http://dbpedia.org/resource/Transplantation_tolerance']
+===============
+------------------------
+MetaMap matches	['http://dbpedia.org/resource/Nonhuman_primates', 'NaN']
+WordNet matches	[]
+BabelFly matches []
+TagMe matches	[]
+------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sentence =  1 AIM: To perform a systematic review of the efficacy of rabeprazole-based therapies in Helicobacter pylori eradication, and to conduct a meta-analysis comparing the efficacy of rabeprazole and other proton pump inhibitors when co-prescribed with antibiotics.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============
+corpus phrases	['rabeprazole']
+corpus senses	['http://dbpedia.org/resource/Rabeprazole']
+===============
+------------------------
+MetaMap matches	['http://dbpedia.org/resource/Rabeprazole']
+WordNet matches	[]
+BabelFly matches ['http://dbpedia.org/resource/Rabeprazole']
+TagMe matches	['http://dbpedia.org/resource/Rabeprazole']
+------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sentence =  2 Comparison of data obtained in the follicular phase with those obtained in the luteal phase revealed differences in most pharmacokinetic parameters, which is seemingly indicative of the characteristic physiological changes associated with the luteal phase that largely affect the kinetics and availability of drugs such as ranitidine.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============
+corpus phrases	['ranitidine']
+corpus senses	['http://dbpedia.org/resource/Ranitidine']
+===============
+------------------------
+MetaMap matches	['http://dbpedia.org/resource/Ranitidine']
+WordNet matches	['http://dbpedia.org/resource/Ranitidine']
+BabelFly matches ['http://dbpedia.org/resource/Ranitidine']
+TagMe matches	['http://dbpedia.org/resource/Ranitidine']
+------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sentence =  3 Clinical and epidemiological features of AIDS/tuberculosis comorbidity.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============
+corpus phrases	['tuberculosis', 'aids']
+corpus senses	['http://dbpedia.org/resource/Tuberculosis', 'http://dbpedia.org/resource/Acquired_immunodeficiency_syndrome']
+===============
+------------------------
+MetaMap matches	[]
+WordNet matches	[]
+BabelFly matches []
+TagMe matches	['http://dbpedia.org/resource/HIV/AIDS', 'http://dbpedia.org/resource/Tuberculosis']
+------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sentence =  4 The effect of mitomycin C was also evident in the normal size alleles in two cell lines with alleles of 13/13 and 12/69 repeats, where treated cultures showed new longer alleles.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============
+corpus phrases	['alleles', 'mitomycin c']
+corpus senses	['http://dbpedia.org/resource/Alleles', 'http://dbpedia.org/resource/Mitomycin']
+===============
+------------------------
+MetaMap matches	['http://dbpedia.org/resource/Mitomycin', 'http://dbpedia.org/resource/Alleles']
+WordNet matches	['http://dbpedia.org/resource/Allele']
+BabelFly matches ['http://dbpedia.org/resource/Allele']
+TagMe matches	['http://dbpedia.org/resource/Allele', 'http://dbpedia.org/resource/Mitomycin']
+------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sentence =  5 [Vitamin D: synthesis, metabolism, regulation, and an assessment of its deficiency in patients with chronic renal disease].
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============
+corpus phrases	['patients']
+corpus senses	['http://dbpedia.org/resource/Patients']
+===============
+------------------------
+MetaMap matches	['http://dbpedia.org/resource/Patients']
+WordNet matches	['http://dbpedia.org/resource/Patient_(grammar)']
+BabelFly matches ['http://dbpedia.org/resource/Patient']
+TagMe matches	['http://dbpedia.org/resource/Patient']
+------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sentence =  6 These disorders are caused by secondary hyperparathyroidism which develops as a result of mineral metabolism impairment, especially of hypocalemia, 25(OH)D deficiency, and insufficient synthesis of 1,25(OH)2D.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============
+corpus phrases	['hypocalemia']
+corpus senses	['http://dbpedia.org/resource/Hypokalemia']
+===============
+------------------------
+MetaMap matches	[]
+WordNet matches	[]
+BabelFly matches []
+TagMe matches	[]
+------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sentence =  7 Low dose pramipexole is neuroprotective in the MPTP mouse model of Parkinson's disease, and downregulates the dopamine transporter via the D3 receptor.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============
+corpus phrases	["parkinson's disease", 'pramipexole']
+corpus senses	['http://dbpedia.org/resource/Parkinson_disease', 'http://dbpedia.org/resource/Pramipexole']
+===============
+------------------------
+MetaMap matches	['http://dbpedia.org/resource/Pramipexole']
+WordNet matches	[]
+BabelFly matches ['http://dbpedia.org/resource/Pramipexole']
+TagMe matches	['http://dbpedia.org/resource/Pramipexole', "http://dbpedia.org/resource/Parkinson's_disease"]
+------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sentence =  8 OBJECTIVE: To investigate the efficacy of intratympanic dexamethasone injections (IDI) for 15 patients with intractable Meniere's disease (MD).
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============
+corpus phrases	["meniere's disease"]
+corpus senses	['http://dbpedia.org/resource/Meniere_disease']
+===============
+------------------------
+MetaMap matches	[]
+WordNet matches	[]
+BabelFly matches []
+TagMe matches	["http://dbpedia.org/resource/M\xc3\xa9ni\xc3\xa8re's_disease"]
+------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sentence =  9 In recent studies, the BDNF expression was reduced by typical neuroleptics.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============
+corpus phrases	['bdnf', 'neuroleptics']
+corpus senses	['http://dbpedia.org/resource/Brain-derived_neurotrophic_factor', 'http://dbpedia.org/resource/Antipsychotic_agents']
+===============
+------------------------
+MetaMap matches	['http://dbpedia.org/resource/Antipsychotic_agents']
+WordNet matches	['http://dbpedia.org/resource/Antipsychotic']
+BabelFly matches ['http://dbpedia.org/resource/Antipsychotic']
+TagMe matches	['http://dbpedia.org/resource/Antipsychotic', 'http://dbpedia.org/resource/Brain-derived_neurotrophic_factor']
+------------------------
+
+====================================
+# of CUIs in corpus           = 856
+------------------------------------
+# of DBpedia senses in corpus = 15
+# of mmap senses              = 9
+# of mmap non-null senses     = 8
+# of bnet senses              = 6
+# of bnet non-null senses     = 6
+# of tagm senses              = 12
+# of tagm non-null senses     = 12
+# of wnet senses              = 4
+# of wnet non-null senses     = 4
+====================================
+
+
+====================================
+# of red. senses in corpus  = 15
+# of red. mmap senses       = 9
+# of red. bnet senses       = 6
+# of red. tagm senses       = 12
+# of red. wnet senses       = 4
+====================================
+
+(avg.),MetaMap,BabelFly,TagMe,WordNet
+Pre,0.89,0.50,0.50,0.25
+Rec,0.53,0.20,0.40,0.07
+F-1,0.67,0.29,0.44,0.11 
+
+\begin{tabular}{ccccc}
+(avg.) & MetaMap & BabelFly & TagMe & WordNet\\ 
+Pre & 0.89 & 0.50 & 0.50 & 0.25\\ 
+Rec & 0.53 & 0.20 & 0.40 & 0.07\\ 
+F-1 & 0.67 & 0.29 & 0.44 & 0.11
+\end{tabular} 
+
+['Pre', 'Rec', 'F-1'] [0.89, 0.53, 0.67] [0.5, 0.2, 0.29] [0.5, 0.4, 0.44] [0.25, 0.07, 0.11]
+###################################################
+
+
+preparing report...
+
+
+###################################################
+TESTS:	by method (equal?) (MetaMap,BabelFly,WordNet,TagMe)
+###################################################
+===================================================
+Kruskal-Wallis test:
+===================================================
+(9.0444444444444496, 0.028705772534074483)
+(value, p-value)
+(*) if p-value > 0.05 ==> accept null
+===================================================
+
+###################################################
+TESTS:	by method (equal?) (MetaMap, BabelFly,WordNet,TagMe)
+###################################################
+===================================================
+Friedman X^2 test:
+===================================================
+(8.7931034482758612, 0.032171998714992441)
+(value, p-value)
+(*) if p-value > 0.05 ==> accept null
+===================================================
+
+###################################################
+TESTS:	by measure (equal?) (pre, rec, F1)
+###################################################
+===================================================
+Kruskal-Wallis test:
+===================================================
+(1.6596491228070172, 0.43612579290723663)
+(value, p-value)
+(*) if p-value > 0.05 ==> accept null
+===================================================
+
