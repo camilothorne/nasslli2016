@@ -68,9 +68,9 @@ class JSON(object):
         text_file = open(os.environ['TEX']+self.name+".csv", "w")
         text_file.write(str(self.g_csv))
         text_file2 = open(os.environ['TEX']+self.name+".tex", "w")
-        text_file2.write(str(self.g_tex))        
+        #text_file2.write(str(self.g_tex))        
         print self.g_csv, "\n"
-        print self.g_tex, "\n"        
+       # print self.g_tex, "\n"        
         text_file.close()
         text_file2.close()     
             

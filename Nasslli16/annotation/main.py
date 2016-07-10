@@ -44,12 +44,12 @@ def main():
 
     
     # 1.1 process data (similarity)
-#     jsons =  SIM(os.environ['DATA']+'annotations-wsd.json','word2vec-test') 
-#     datas =  jsons.data 
-#     jsons.process(datas,10) 	           # similarity, consider only 1st k sentences, save results
-#     mys = SIMStats()
-#     mys.set('word2vec-test')	           # stats
-#     SPlot(mys) 					           # generate plot (averages)
+    # jsons =  SIM(os.environ['DATA']+'annotations-wsd.json','word2vec-test') 
+    # datas =  jsons.data 
+    # jsons.process(datas,10) 	           # similarity, consider only 1st k sentences, save results
+    # mys = SIMStats()
+    # mys.set('word2vec-test')	           # stats
+    # SPlot(mys) 					           # generate plot (averages)
 
 
     # 1.2. process data (strict evaluation)
